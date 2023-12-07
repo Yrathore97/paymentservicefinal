@@ -21,6 +21,6 @@ public class PaymentGatewayStrategyChooser {
 //        }
 //
 //        return stripePaymentGateway;
-        return razorpayPaymentGateway;
+        return stripePaymentGateway;
     }
 }
